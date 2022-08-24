@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">dataBase</string>
+    <string name="tvCar">Характеристики автомобилей</string>
+    <string name="filtr">Фильтр</string>
+    <string name="Sort">Сортировка по цене</string>
+    <string name="Fabric">Производитель :</string>
+    <string name="audi">Audi</string>
+    <string name="model">Модель :</string>
+    <string name="q7">Q7</string>
+    <string name="price">Цена :</string>
+    <string name="_4550000">4550000</string>
+    <string name="maxSpeed">Максимальная скорость:</string>
+    <string name="_230">230</string>
+    <string name="country">Страна производитель :</string>
+    <string name="germany">Германия</string>
+    <string name="add">Добавить</string>
+    <string name="filter">Фильтр</string>
+    <string name="fabric">Производитель</string>
+    <string name="type">Марка</string>
+    <string name="addAuto">Добавить авто</string>
+    <string name="allText">Все записи</string>
+    <string name="countryFabricate">Страна производства</string>
+    <string name="maximumSpeed">Максимальная скорость</string>
+    <string name="number">№</string>
+    <string name="delete">Удалить</string>
+    <string name="numbItem">Номер пункта</string>
+    <string name="numbItemInput">Введите номер пункта, который хотите удалить</string>
+</resources>
