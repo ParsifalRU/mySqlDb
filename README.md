@@ -4,7 +4,7 @@ This application can store cars and their characteristics, as well as edit them.
 
 What you can do:
 - Display all car records on the screen
-- Add entries about new cars to the database
+- Add entries about new cars to the database (some of the cars are already loaded into the database by default)
 - Delete cars from the database
 - Sort cars by price
 - Sort cars using two filters (manufacturer and brand), simultaneously and separately
